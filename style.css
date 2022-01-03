@@ -6,10 +6,14 @@ h1{
     font-size: 50px;
 
 } 
+h2{
+    font-size: 40px;
+
+}
 .abc{
 color: lawngreen;
 }
-section{
+.me-to{
 display: flex;
 margin-bottom: 50px;
 
@@ -33,8 +37,43 @@ margin-bottom: 50px;
     background-image:url(40576825-foreground-from-leaves-on-white_1.jpg) ;
     background-repeat: no-repeat ;
 }
-.dream-big{
-    background-image: url(40576825-foreground-from-leaves-on-white_1.jpg);
-    background-repeat:no-repeat ;
-    background-position:left;
+
 }
+.exp-area{
+
+    background-image: url(40576825-foreground-from-leaves-on-white_1.jpg);
+    background-repeat: no-repeat;
+    background-position: left;
+
+    
+}
+
+
+
+.blog-2{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    border-radius: 10px;
+
+box-shadow: 10px 10px 40px green ;
+
+}
+
+#oni-exp{
+    border-left:7px solid ;   
+    border-image: linear-gradient(rgb(144, 21, 226), rgb(7, 243, 82) );
+    border-image-slice: 1;
+}
+
+#i-sm{
+    border-left:7px solid ;   
+    border-image: linear-gradient(rgb(15, 113, 6), rgb(7, 243, 82) );
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+    
