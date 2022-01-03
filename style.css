@@ -1,0 +1,34 @@
+body{
+    font-family: 'Luxurious Roman', cursive;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+
+} 
+.abc{
+color: lawngreen;
+}
+section{
+display: flex;
+
+}
+.blog-1{
+    width: 50%;
+    padding: 10%; 
+}
+.blog-1 img{
+    width: 80%;
+}
+.link-button{
+   text-decoration: none; 
+   background-image: linear-gradient(lawngreen, rgb(54, 171, 161) );
+   padding: 10px 20px;
+   color: honeydew;
+   font-weight: 700;
+   border-radius: 5px;
+}
+.top-banner{
+    background-image:url(40576825-foreground-from-leaves-on-white_1.jpg) ;
+    background-repeat: no-repeat ;
+}
