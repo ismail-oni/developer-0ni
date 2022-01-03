@@ -11,6 +11,7 @@ color: lawngreen;
 }
 section{
 display: flex;
+margin-bottom: 50px;
 
 }
 .blog-1{
@@ -31,4 +32,9 @@ display: flex;
 .top-banner{
     background-image:url(40576825-foreground-from-leaves-on-white_1.jpg) ;
     background-repeat: no-repeat ;
+}
+.dream-big{
+    background-image: url(40576825-foreground-from-leaves-on-white_1.jpg);
+    background-repeat:no-repeat ;
+    background-position:left;
 }
